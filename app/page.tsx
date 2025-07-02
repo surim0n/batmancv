@@ -183,12 +183,7 @@ export default function BatmanUXResume() {
             <Mail className="mr-2 h-5 w-5" /> bruce@wayneenterprises.com
           </Button>
           <Button variant="secondary" size="lg" asChild>
-            <a href="https://linkedin.com/in/batux" target="_blank" rel="noreferrer">
-              <Linkedin className="mr-2 h-5 w-5" /> LinkedIn
-            </a>
-          </Button>
-          <Button variant="secondary" size="lg" asChild>
-            <a href="https://github.com/batux" target="_blank" rel="noreferrer">
+            <a href="https://github.com/surim0n/batmancv" target="_blank" rel="noreferrer">
               <Github className="mr-2 h-5 w-5" /> GitHub
             </a>
           </Button>
